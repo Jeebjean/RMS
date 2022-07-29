@@ -3557,12 +3557,6 @@ figcaption {
   background-color: rgba(168, 193, 216, 0);
 }
 
-.project-wrapper.background-color-grey:hover {
-  background-image: url(../img/test.jpg);
-  background-position: center center;
-  background-size: cover;
-}
-
 .project-branche {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
