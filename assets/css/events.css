@@ -3558,7 +3558,7 @@ figcaption {
 }
 
 .project-wrapper.background-color-grey:hover {
-  background-image: url(assets/img/test.jpg);
+  background-image: url(../img/test.jpg);
   background-position: center center;
   background-size: cover;
 }
@@ -9762,4 +9762,8 @@ figcaption {
   .your-collection-item:nth-child(3n + 3) .item-inside-collection-item {
     background-color: purple;
   }
+}
+
+.content_filter {
+  margin: 20px 15px 90px 15px;
 }
